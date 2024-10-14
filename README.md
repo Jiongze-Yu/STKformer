@@ -16,7 +16,7 @@ datasets
 │   ├── train
 │   ├── test
 │   └── val
-└── CSCD
+└── CDSD
     ├── classification
     │   ├── train
     │   └── val
