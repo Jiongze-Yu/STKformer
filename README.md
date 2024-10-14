@@ -58,7 +58,6 @@ python evaluate.py --batch_size 1 --model_name STKformer_0_75_100_25 --data_path
 ```
 
 ## Pre-trained Models
-## Pre-trained Models
 <table>
 <thead>
   <tr>
