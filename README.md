@@ -1,6 +1,6 @@
 # Real-Time Smoke Detection with Split Top-k Transformer and Adaptive Dark Channel Prior in Foggy Environments
 
-## 🔥 🔥 
+## 🔥🔥[2024 IEEE IOTJ (under review)] 
 
 ## Datasets
 ```
@@ -37,11 +37,11 @@ datasets
 </thead>
 <tbody>
   <tr>
-    <td>Baidu Cloud</td>
-    <td> <a href="">Download </a> </td>
-    <td> <a href="">Download </a> </td>
-    <td> <a href="">Download </a> </td>
-    <td> <a href="">Download </a> </td>
+    <td>Download</td>
+    <td> <a href="https://pan.baidu.com/s/1TEzyt8w2C2z06hj2M-yNsg?pwd=4wz8 ">Download </a> </td>
+    <td> <a href="https://github.com/jefferson2021ufc/EdgeFireSmoke?tab=readme-ov-file">Download </a> </td>
+    <td> <a href="https://github.com/jefferson2021ufc/EdgeFireSmoke?tab=readme-ov-file">Download </a> </td>
+    <td> <a href="https://pan.baidu.com/s/1vBM0YgsfKiWIXwFKic6m1g?pwd=1bx3 ">Download </a> </td>
   </tr>
 </tbody>
 </table>
