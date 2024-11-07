@@ -14,7 +14,7 @@ Flowchart of industrial smoke alarm system in foggy conditions.
 **STKformer architecture.** The upper part illustrates the overall architecture of our proposed STKformer. The lower part contains three subfigures detailing the internal components. (a) presents the internal details of the Le-MLP. (b) demonstrates the computational process of the STKA. (c) showcases the computational process of the Dual-Path Attention Downsample.
 
 ![STKA](fig/STKA.png)
-Comparison of the computational diagrams for MultiHead Self Attention (MHSA) and our proposed Split Top-K Attention (STKA).
+Comparison of the computational diagrams for Multi-Head Self Attention (MHSA) and our proposed Split Top-K Attention (STKA).
 
 
 ## Datasets
